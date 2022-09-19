@@ -1,0 +1,6 @@
+span:first-child{
+    color:blue;
+}
+p:first-child span:nth-child(2){
+    color: red;
+}
